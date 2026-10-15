@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Órbita — Ideas simples, posibilidades infinitas",
+  title: "X — Ideas simples, posibilidades infinitas",
   description: "Estudio digital independiente. Diseño y desarrollo web para dar forma a tu próxima gran idea.",
 };
 
